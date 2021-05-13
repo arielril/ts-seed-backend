@@ -42,9 +42,9 @@
     "helmet": "^3.18.0",
     "knex": "^0.20.2",
     "moment-timezone": "^0.5.25",
-    "ts-node": "^8.5.0",
     "mysql2": "^2.0.1",
     "ramda": "^0.26.1",
+    "ts-node": "^8.5.0",
     "typescript": "^3.7.2"
   },
   "devDependencies": {
@@ -55,7 +55,7 @@
     "jest-express": "^1.10.1",
     "nock": "^11.7.0",
     "sinon": "^7.3.2",
-    "ts-jest": "^24.2.0",
+    "ts-jest": "^26.5.6",
     "tslint": "^5.20.1",
     "tslint-config-airbnb": "^5.11.1",
     "typescript-tslint-plugin": "^0.5.5"
